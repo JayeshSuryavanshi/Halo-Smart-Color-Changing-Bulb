@@ -1,2 +1,2 @@
-# Halo-Smart-Color-Changing-Bulb
-Inspired by Lifx, we made a light changing bulb using Arduino as a part of ES &amp; IoT project.
+# COLOR-CHANGING-BULB
+IOT based project to control the color and it with the input from android application.
