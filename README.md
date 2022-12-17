@@ -1,2 +1,3 @@
 # HALO -- Color Changing Smart Bulb
-IOT based project to control the color and it with the input from android application.
+
+Introducing an innovative Android app and Arduino-based project that allows you to control the color of a light bulb with the tap of a button! Our app sends commands to the Arduino board, which communicates with a device capable of changing the light bulb's color, such as a smart bulb or a LED strip with a built-in controller. The Arduino board uses a wireless communication protocol, such as Bluetooth or WiFi, to send signals to the device and change the light bulb's color. You can even use a voice-based virtual assistant, like Amazon's Alexa, to control the light bulb color by using a voice recognition library to capture voice commands and send them to the Arduino board. With this project, you'll have complete control over the ambiance of your space, all from the convenience of your phone or virtual assistant.
