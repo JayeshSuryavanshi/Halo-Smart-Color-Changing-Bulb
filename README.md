@@ -1,2 +1,2 @@
-# HALO // COLOR-CHANGING-BULB
+# HALO -- Color Changing Smart Bulb
 IOT based project to control the color and it with the input from android application.
